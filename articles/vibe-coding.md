@@ -1,4 +1,14 @@
-
+---
+title: The Hidden Technical Debt of Relying Solely on Vibe Coding
+excerpt: testing and conteplating the thoughts
+date: 2026-01-11
+Tags:
+  - vibe-coding
+  - tech
+  - ai-slop
+readTime: 5
+public: true
+---
 # The Hidden Technical Debt of Relying Solely on Vibe Coding 
 
 You’ve definitely heard the term **vibe coding** by now. If you’re a software developer, your day probably starts with opening Cursor and prompting to whatever the latest model is, right now everyone is talking about Opus 4.5. When the tokens run out, you switch IDEs or tools. Maybe Antigravity, maybe something else. If your company pays for it, chances are you’re using Claude Code just like me.
@@ -71,3 +81,4 @@ This lack of clarity made it impossible to reason about **why** certain choices 
 ## Final Takeaway
 
 Don’t rely solely on vibe coding. Make it a habit to thoroughly read the code, iterate multiple times, and truly understand the real-world use cases where your system might fail. Without that knowledge, it’s impossible to become a better software developer. You must be aware of the consequences of the code you ship, and without taking responsibility for those consequences, there’s little true engineering left.
+
